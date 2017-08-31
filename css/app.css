@@ -1,0 +1,14 @@
+.help-menu {
+    position: fixed;
+    width: 20%;
+    height: 65%;
+    box-shadow: 1px 1px 12px #555;
+    top: 10%;
+    right: 5%;
+}
+
+.resize {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
